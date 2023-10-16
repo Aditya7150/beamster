@@ -1,0 +1,26 @@
+[
+  {
+    "name":"X post",
+    "status": "Approved",
+    "date": "18 Apr 2023",
+    "progress": 75.5  
+  },
+  {
+    "name":"Linkedin post",
+    "status": "Disable",
+    "date": "18 Apr 2024",
+    "progress": 25.5  
+  },
+  {
+    "name":"Instagram Post",
+    "status": "Error",
+    "date": "20 May 2026",
+    "progress": 90  
+  },
+  {
+    "name":"Facebook post",
+    "status": "Approved",
+    "date": "12 Jul 2023",
+    "progress": 50.5  
+  }
+]
